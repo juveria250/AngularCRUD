@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "firstName": "Juveria",
+      "lastName": "lambe",
+      "email": "hshs@gmail.com",
+      "mobile": 48950559,
+      "salary": 30000
+    },
+    {
+      "id": 7,
+      "firstName": "Abida",
+      "lastName": "Lambe",
+      "email": "abida@gmail.com",
+      "mobile": 9850527609,
+      "salary": 50000
+    },
+    {
+      "id": 8,
+      "firstName": "Divyani",
+      "lastName": "Shirke",
+      "email": "Shirke@gmail.com",
+      "mobile": 780567899,
+      "salary": 56000
+    },
+    {
+      "id": 9,
+      "firstName": "juveria",
+      "lastName": "lambe",
+      "email": "juveria@gmail.com",
+      "mobile": 48950559,
+      "salary": 20000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
